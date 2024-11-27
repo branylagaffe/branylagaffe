@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.2616659485566" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="214.2616659485566" y="0" width="68.78405595246446" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="283.04572190102107" y="0" width="67.58564715077306" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="350.6313690517941" y="0" width="46.12491107125322" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="396.7562801230473" y="0" width="18.907203478992777" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="415.6634836020401" y="0" width="17.436848064609865" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="433.10033166664994" y="0" width="15.099950901311637" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.2002825679616" y="0" width="11.799717432038397" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.24292881712418" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="234.24292881712418" y="0" width="75.19860657713122" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="309.4415353942554" y="0" width="73.88843853383871" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="383.32997392809415" y="0" width="37.0172863308722" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="420.34726025896634" y="0" width="20.670420436868742" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.0176806958351" y="0" width="16.508117345485616" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="457.5257980413207" y="0" width="1.2648160725631532" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.79061411388386" y="0" width="1.2093858861161624" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -165,21 +165,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HCL
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Jupyter Notebook
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CMake
+                        GDB
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#0298c3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Perl
                     </div>
                 </div>
             </section>
